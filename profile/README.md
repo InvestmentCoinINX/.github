@@ -7,7 +7,7 @@
 [**GMGN.AI](https://gmgn.ai "GMGN.ai √XBT")
 [**Telegram access](https://t.me/BitcoinMMXXV "t.me √XBT")
 
-### **Explore the future of decentralized finance at our official website:  
+### Explore the future of decentralized finance at our official website:  
 [Bitcoin MMXXV √XBT Website](https://trrxitte.com)
 
 
