@@ -2,6 +2,15 @@
 
 **Bitcoin MMXXV √XBT** is a visionary, next-generation evolution of the original Bitcoin protocol, designed to enhance scalabilityliteral, non-custodial wallet solutions. It aims to empower users with greater control over their assets while maintaining the core principles of decentralization and security.
 
+**Solana Contract Address**: `TBD_Solana_CA_Placeholder_1234567890`
+
+[**GMGN.AI](https://gmgn.ai "GMGN.ai √XBT")
+[**Telegram access](https://t.me/BitcoinMMXXV "t.me √XBT")
+
+### **Explore the future of decentralized finance at our official website:  
+[Bitcoin MMXXV √XBT Website](https://trrxitte.com)
+
+
 ## Key Features:
 - **Enhanced Scalability**: Implements advanced layer-2 solutions inspired by modern blockchain innovations to ensure faster transaction processing and lower fees, making it suitable for everyday use.
 - **Privacy-Focused**: Incorporates cutting-edge cryptographic techniques, such as zero-knowledge proofs, to enhance user privacy without compromising the integrity of the public ledger.
