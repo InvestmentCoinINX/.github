@@ -8,7 +8,7 @@
 [**Telegram access](https://t.me/BitcoinMMXXV "t.me √XBT")
 
 ### Explore the future of decentralized finance at our official website:  
-[Bitcoin MMXXV √XBT Website](https://trrxitte.com)
+[Bitcoin MMXXV √XBT Website](https://BitcoinMMXXV.com)
 
 
 ## Key Features:
