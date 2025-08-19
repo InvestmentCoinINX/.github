@@ -1,4 +1,4 @@
-# Investment Coin √INX Description
+# Investment Coin INX Description
 
 **Investment Coin √INX** is a visionary, next-generation evolution of the original Bitcoin protocol, designed to enhance scalabilityliteral, non-custodial wallet solutions. It aims to empower users with greater control over their assets while maintaining the core principles of decentralization and security.
 
